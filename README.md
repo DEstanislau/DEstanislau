@@ -2,7 +2,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-estanislau/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/diego.estanislau.99/)
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://www.facebook.com/diego.estanislau.99/)
 
 <h3 align="left">Always Coding </h3>
 
@@ -20,6 +19,6 @@ A clean and understandable code, as a good poem should be.</p>
 
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DEstanislau)
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DEstanislau)
 
  
