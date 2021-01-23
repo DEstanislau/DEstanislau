@@ -24,5 +24,4 @@ Always remembering, you are not alone, clean code!.</p>
 <!---
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DEstanislau)
   
-  codar é ajudar alguém em algum lugar
 -->
